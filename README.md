@@ -1,2 +1,2 @@
-UIView-Visibility
+UIView+Visibility
 =================
